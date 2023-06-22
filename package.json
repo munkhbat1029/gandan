@@ -1,0 +1,11 @@
+{
+  "name": "gandan",
+  "version": "1.0.0",
+  "description": "website of gandan",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Munkh-Erdene, Munkhbat",
+  "license": "MIT"
+}
